@@ -1,0 +1,23 @@
+{
+    "app_name":"AutoPay",
+    "str_choose_lang":"اختر اللغة",
+    "str_ar":"العربية",
+    "str_en":"English",
+    "str_name":"الاسم أو البريد الإلكتروني",
+    "str_pass":"كلمه السر",
+    "str_login_title":"تسجيل الدخول",
+    "str_lbl_or":"or",
+    "str_frgt_pass":"نسيت كلمة المرور؟",
+    "str_btn_login":"تسجيل الدخول",
+    "str_lbl_singup":"التسجيل",
+    "nav_bar":{
+        "str_home":"Home",
+        "str_setting":"Setting",
+        "str_scan":"Scan"
+    },
+    "credit_card":{
+        "title":"Add new Credit Card",
+        "str_btn_add":"add"
+    }
+
+}

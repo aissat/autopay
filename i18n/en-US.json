@@ -1,0 +1,22 @@
+{
+    "app_name":"AutoPay",
+    "str_choose_lang":"Choose language",
+    "str_ar":"العربية",
+    "str_en":"English",
+    "str_name":"Name or E-mail",
+    "str_pass":"Password",
+    "str_login_title":"Sing In",
+    "str_lbl_or":"or",
+    "str_frgt_pass":"forget my password ?",
+    "str_btn_login":"Login",
+    "str_lbl_singup":"Sing Up",
+    "nav_bar":{
+        "str_home":"Home",
+        "str_setting":"Setting",
+        "str_scan":"Scan"
+    },
+    "credit_card":{
+        "title":"Add new Credit Card",
+        "str_btn_add":"add"
+    }
+}
